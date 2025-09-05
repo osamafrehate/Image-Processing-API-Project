@@ -55,7 +55,14 @@ The API comes with the following sample images:
 ---
 
 ## Commands
+<<<<<<< HEAD
 - Install dependencies: `npm install`
 - Build project: `npm run build`
 - Run tests: `npm run test`
 - Start server: `npm run start`
+=======
+- Install : npm install 
+- Build : npm run build 
+- Run tests : npm run test 
+- Start server : npm run start 
+>>>>>>> 4526b94 (Update README.md)
