@@ -55,7 +55,7 @@ The API comes with the following sample images:
 ---
 
 ## Commands
-<<<<<<< HEAD
+
 - Install dependencies: `npm install`
 - Build project: `npm run build`
 - Run tests: `npm run test`
