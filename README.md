@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Image Processing API
 
 A simple **TypeScript** API built with **Express** for dynamically resizing images on the fly. The API allows users to fetch resized versions of available images by specifying width and height.
@@ -40,3 +41,7 @@ The API comes with the following sample images:
 ### Tools & Utilities
 - **ts-node / TypeScript compiler** – To run TypeScript files directly.
 - **npm** – For package management.
+=======
+# Image-Processing-API
+A simple API for image processing built with Node.js and Express.
+>>>>>>> 8628b55 (Initial commit)
