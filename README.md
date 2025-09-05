@@ -11,6 +11,8 @@ A simple **TypeScript** API built with **Express** for dynamically resizing imag
 - Handles invalid filenames or dimensions gracefully.
 - Includes unit tests using **Supertest** and **Jasmine**.
 - Fully written in **TypeScript**.
+- Convert images to different formats (JPEG, PNG, etc.)
+- Apply simple filters
 
 ---
 
@@ -49,3 +51,11 @@ The API comes with the following sample images:
 ## Tools & Utilities
 - **ts-node / TypeScript compiler** – To run TypeScript files directly.
 - **npm** – For package management.
+
+---
+
+## Commands
+- Install dependencies: `npm install`
+- Build project: `npm run build`
+- Run tests: `npm run test`
+- Start server: `npm run start`
