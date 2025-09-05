@@ -69,7 +69,7 @@ The API comes with the following sample images:
 >>>>>>> 4526b94 (Update README.md)
 =======
 - Start server : npm run start
-##🛠 Technologies Used
+## 🛠 Technologies Used
 - Node.js
 - Express
 - Sharp (for image processing)
