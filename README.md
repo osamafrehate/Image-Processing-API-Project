@@ -64,5 +64,14 @@ The API comes with the following sample images:
 - Install : npm install 
 - Build : npm run build 
 - Run tests : npm run test 
+<<<<<<< HEAD
 - Start server : npm run start 
 >>>>>>> 4526b94 (Update README.md)
+=======
+- Start server : npm run start
+##🛠 Technologies Used
+- Node.js
+- Express
+- Sharp (for image processing)
+- Jasmine (for unit testing)
+>>>>>>> 6b9c30e (Update README.md)
